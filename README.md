@@ -11,3 +11,5 @@
 - [Tic-Tac-Toe](https://github.com/trafalgande/hyperskill/tree/master/TicTacToe "Go to source code")
 
 ![GitHub followers](https://img.shields.io/github/followers/trafalgande?label=help%20lmao%20please&style=social)
+![GitHub stars](https://img.shields.io/github/stars/trafalgande/hyperskill?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/trafalgande/hyperskill?style=social)
