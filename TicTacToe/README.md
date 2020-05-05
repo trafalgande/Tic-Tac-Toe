@@ -1,4 +1,4 @@
-## Tic-Tac-Toe (difficulty: [![](https://hyperskill.org/static/icons/difficulty-levels/level-0.svg)](https://hyperskill.org/static/icons/difficulty-levels/level-0.svg) easy)
+## Tic-Tac-Toe (difficulty: [](https://hyperskill.org/static/icons/difficulty-levels/level-0.svg) easy)
 ### About
 Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also known as Noughts and crosses or Xs and Os. 
 A single mistake usually costs you the game, but thankfully it is simple enough that most players discover the best strategy 
